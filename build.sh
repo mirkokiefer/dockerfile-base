@@ -1,2 +1,2 @@
 
-docker build -t mirkokiefer/base .
+docker build -t mirkokiefer/ubuntu-base .
